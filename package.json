@@ -1,0 +1,21 @@
+{
+  "name": "reactive-stream",
+  "version": "0.0.1",
+  "description": "Simple implementation of Reactive Stream",
+  "main": "stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactive",
+    "streams",
+    "functional"
+  ],
+  "type": "module",
+  "author": "Zaidin Amiot",
+  "license": "ISC",
+  "dependencies": {
+    "lit-html": "^1.2.1",
+    "mergerino": "^0.4.0"
+  }
+}
